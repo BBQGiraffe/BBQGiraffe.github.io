@@ -1,7 +1,5 @@
 ## Welcome to my website, I guess
 
- Markdown files.
-
 ### Stuff I do
 
 here's some stuff I do for gits and shiggles, and some projects
@@ -9,29 +7,19 @@ here's some stuff I do for gits and shiggles, and some projects
 
 ```markdown
 
-*hobbies*
+**hobbies**
 - Programming
 - Robotics
 - Cooking(poorly)
 
-*projects that I still maintain*
+**current projects**
 
-- [OpenNitemare3D](https://github.com/BBQGiraffe/OpenNitemare3D)
-
-
+[OpenNitemare3D](https://github.com/BBQGiraffe/OpenNitemare3D)
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### About Me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+here's some stuff about me, of course it's kept to a bare minimum to prevent the Feds from tracking me down and stealing my garlic bread
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BBQGiraffe/BBQGiraffe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I go to a school in Texas, this school is nice, I work at a resteraunt, I have 3 cats and a dog, I am Mexican American, I like mintchip icecream, I enjoy getting really stupid things to work.
