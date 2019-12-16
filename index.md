@@ -1,25 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my website, I guess
 
-You can use the [editor on GitHub](https://github.com/BBQGiraffe/BBQGiraffe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Stuff I do
 
-### Markdown
+here's some stuff I do for gits and shiggles, and some projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*hobbies*
+- Programming
+- Robotics
+- Cooking(poorly)
 
-- Bulleted
-- List
+*projects that I still maintain*
 
-1. Numbered
-2. List
+- [OpenNitemare3D](https://github.com/BBQGiraffe/OpenNitemare3D)
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
