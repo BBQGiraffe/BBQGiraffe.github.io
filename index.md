@@ -5,7 +5,6 @@
 here's some stuff I do for gits and shiggles, and some projects
 
 
-```markdown
 
 **hobbies**
 - Programming
@@ -15,7 +14,7 @@ here's some stuff I do for gits and shiggles, and some projects
 **current projects**
 
 [OpenNitemare3D](https://github.com/BBQGiraffe/OpenNitemare3D)
-
+CheemsBlaster(not open source but I post about it on my Twitter)
 
 
 ### About Me
